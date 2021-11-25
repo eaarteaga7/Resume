@@ -2,14 +2,18 @@
 {% include sidebar.html %}
 
 
-#### This is my example basic resume, for people to learn how to use gitpages to create a resume for the workshop "Open CV" at the [Research Bazaar Qld Conference 2021](https://resbaz.github.io/resbaz2021qld/) . Learn [How I Made this here](https://amandamiotto.github.io/Portfolio/HowIMadeThis) .
+### About me
+#### Environmental consultant experienced on development of sustainability and climate change resilience strategies focused on mitigation and adaptation planning and implementation supporting and guiding decision-makers, governments and private sectors in Bolivia, Ecuador, Peru and Panama. Qualified to evaluate and monitor REDD+ programs, develop Carbon and Water Footprint Assessments, Strategic Climate Change planning and implementation, and Project and Stakeholder Management. Current research project is focused on the investigation of climate change adaptation planning tools, such as guidelines, frameworks and tools developed for adaptation processes, and contrast them with results from their implementation to assess their relevance and usefulness to deliver adaptation outcomes. Experienced in navigating workplace and academic environments.
 
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Science (Majoring in Bioinformatics) | University of Southern Queensland          | 2003-2007 |
-| Carpentry Instructor | The Carpentries | 2015 |
-| Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
+| Doctor of Philosophy | Griffith University         | 2020 - ongoing |
+| Leadership in Global Development-MicroMasters Program | The University of Queensland | 2018 |
+| Msc Water Resources Management | University of Canterbury | 2015 - 2017 |
+| Specialist in simulation of environmental and industrial | Bolivian Catholic University - Polytechnic University of Valencia  | 2014 |
+| Environmental Engineer | Bolivian Catholic University  | 2007 - 2012 |
+
 
 ## Employment
 
